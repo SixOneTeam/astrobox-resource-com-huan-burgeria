@@ -1,0 +1,84 @@
+{
+  "item": {
+    "id": "com.huan.burgeria",
+    "restype": "quick_app",
+    "name": "环上汉堡店",
+    "description": "上学的你\n是否想在教室 宿舍做汉堡?\n想用小米手环开汉堡店？",
+    "preview": [
+      "media/Sixone实测-标准版-手环10模拟器-首页.png",
+      "media/历史参考-多煎盘-配料-第2页.png",
+      "media/历史参考-多煎盘-三煎盘-第1页.png",
+      "media/历史参考-多煎盘-三煎盘-第1页-下方操作.png",
+      "media/历史参考-更多流程-201-day.png",
+      "media/历史参考-更多流程-202-shop.png",
+      "media/历史参考-更多流程-203-order-clean.png",
+      "media/历史参考-更多流程-211-prank-penalty-result.png",
+      "media/历史参考-更多流程-214-paused.png",
+      "media/历史参考-更多流程-303-capacity-limit.png",
+      "media/历史参考-更多流程-321-cleaning-countdown.png",
+      "media/历史参考-多设备-首页.png",
+      "media/历史参考-v36验证-煎台.png",
+      "media/历史参考-v36验证-暂停.png",
+      "media/历史参考-多设备-Pro-侧栏煎台.png",
+      "media/历史参考-多设备-Pro-左右接单页.png"
+    ],
+    "icon": "media/环上汉堡店-icon.png",
+    "cover": "media/环上汉堡店宣传图@2x.png",
+    "author": [
+      {
+        "name": "sixoneteam",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "环上汉堡店密钥购买链接",
+      "url": "https://afdian.com/item/61a52a52d7a711f1bf195254001e7c00?utm_source=copylink&utm_medium=link",
+      "icon": "link"
+    },
+    {
+      "title": "环上汉堡店QQ交流群",
+      "url": "https://qm.qq.com/q/swd2We6szC",
+      "icon": "wechat-logo"
+    }
+  ],
+  "downloads": {
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/环上汉堡店-Sixone-标准版-手环10和11.rpk",
+      "versionCode": 27
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/环上汉堡店-Sixone-标准版-手环10和11.rpk",
+      "versionCode": 27
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/环上汉堡店-Sixone-宽屏版.rpk",
+      "versionCode": 37
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/环上汉堡店-Sixone-标准版-手环10和11.rpk",
+      "versionCode": 27
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/环上汉堡店-Sixone-标准版-手环10和11.rpk",
+      "versionCode": 27
+    },
+    "xmb9": {
+      "version": "1.0.0",
+      "file_name": "downloads/环上汉堡店-Sixone-小米手环9版(2).rpk",
+      "versionCode": 30
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/环上汉堡店-Sixone-宽屏版.rpk",
+      "versionCode": 37
+    }
+  },
+  "ext": {}
+}
